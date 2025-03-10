@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <style>
+      body{
+      background: linear-gradient(to bottom, red, green, blue);
+      color: black;
+        }
+    </style>
+  </head>
+  <body>
+    <center>
+      <a href = "index.html">Home</a>
+      <H1>Neels Portfolio</H1>
+      <h2>Neel: Serving Aces, Savoring Flavors, and Shaping the Digital World</h2>
+      <h2>My project is about clean water, and I made a game about it</h2>
+      <iframe width="410" height="460" 
+        src="https://academy.cs.cmu.edu/sharing/oliveKangaroo8253/embed"> 
+      </iframe>
+      <h3> My logo is a pllate with a big X showing 0 hunger</h3>
+      <h3>bellow is some of my code snippets of my project</h3> 
+      </center>
+  </body>
+</html>
